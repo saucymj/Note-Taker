@@ -12,6 +12,10 @@ To install this app users will first have to run npm init and npm install in the
 
 This app can be used to take notes in the workplace or even just for everyday casual notes.
 
+![915B05AF-53B1-44C5-9CB9-9677B90E7A8D](https://user-images.githubusercontent.com/106449899/193715995-fa8778d7-b865-42c3-8c0e-a6f50b4f3f2a.jpeg)
+
+![B687B737-F148-4B0B-81C6-1EBEE478B65C](https://user-images.githubusercontent.com/106449899/193716018-72ebb371-52fb-4987-801f-209c90e5c395.jpeg)
+
 
 ## URL's
 
