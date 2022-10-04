@@ -17,4 +17,4 @@ This app can be used to take notes in the workplace or even just for everyday ca
 
 Website: https://notetaker17.herokuapp.com/
 
-Repository: 
+Repository: https://github.com/saucymj/Note-Taker
